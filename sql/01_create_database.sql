@@ -1,0 +1,4 @@
+CREATE DATABASE ATM_Analytics;
+GO
+USE ATM_Analytics;
+GO
